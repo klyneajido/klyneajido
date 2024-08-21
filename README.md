@@ -17,6 +17,7 @@ I believe in the power of continuous learning and staying up-to-date with the la
 - JavaScript concepts
 - Exploring Python frameworks for data analysis and machine learning
 - Mobile Development
+- Artificial Intelligence
 
 ## 💞️ I’m looking to collaborate on ...
 
