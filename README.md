@@ -7,15 +7,15 @@ Welcome to my GitHub profile! I'm a passionate coder and lifelong learner, alway
 - Open-source projects
 - Web development
 - Data science and machine learning
-- Blockchain technology
 - Artificial Intelligence
+- Mobile Development
 
 ## 🌱 I’m currently learning ...
 
 I believe in the power of continuous learning and staying up-to-date with the latest advancements in the tech world. Currently, I am focusing on:
 
-- JavaScript concepts
-- Exploring Python frameworks for data analysis and machine learning
+- NextJS
+- Augmented Reality
 - Mobile Development
 - Artificial Intelligence
 
@@ -29,7 +29,7 @@ I'm happy to connect with fellow developers, tech enthusiasts, and potential col
 
 - Email: ajido.andriqklyne@gmail.com 
 - Facebook: https://www.facebook.com/drfun.time.3
-- LinkedIn: https://www.linkedin.com/in/klyneajido/
+- LinkedIn: https://www.linkedin.com/in/andriq-klyne-ajido/
 
 Feel free to explore my repositories and don't forget to give them a ⭐️ if you find them useful or interesting!
 
